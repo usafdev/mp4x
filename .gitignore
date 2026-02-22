@@ -1,0 +1,9 @@
+*.exe
+*.obj
+*.o
+*.pdb
+*.dll
+*.ilk
+*.log
+ffmpeg/lib/
+ffmpeg/include/

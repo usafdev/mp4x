@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/ffmpeg/include"
+            ],
+            "defines": [],
+            "intelliSenseMode": "windows-gcc-x64",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
